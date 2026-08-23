@@ -7,6 +7,9 @@ nav_order: 4
 
 # Staff
 
+Append `@berkeley.edu` to all email addresses. **For personal circumstances or sensitive matters,** please use the staff email address **[data102@berkeley.edu](mailto:data102@berkeley.edu)**, which is monitored only by the instructors and a few lead TAs.
+
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -14,7 +17,7 @@ nav_order: 4
 {{ staffer }}
 {% endfor %}
 
-{% assign head_teaching_assistants = site.staffers | where: 'role', 'Head Teaching Assistant' %}
+{% assign head_teaching_assistants = site.staffers | where: 'role', 'Head TA' %}
 {% assign num_head_teaching_assistants = head_teaching_assistants | size %}
 {% if num_head_teaching_assistants != 0 %}
 ## Head Teaching Assistants
@@ -24,7 +27,7 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'TA' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 ## Teaching Assistants
