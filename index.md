@@ -25,7 +25,6 @@ description: A week-to-week description of the content covered in the course.
 
 
 ## Schedule
-[**Jump to current week**](#week-{{ site.current_week }}){: .btn }
 
 <div>
 {%- include schedule.html -%}
