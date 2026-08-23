@@ -13,11 +13,16 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - slug: hw01
+  - title: Homework 1
+  - skip: true
   - title: Homework 2
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
+  - skip: true
   - title: Homework 3
   - skip: true
   - title: Homework 4
+  - skip: true
   - title: Homework 5
+  - skip: true
   - title: Homework 6
+  - skip: true
+  - title: Homework 7 (Optional)
