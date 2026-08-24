@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Statistical Modeling I: Parametric Models"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-09-24
 files:
   slides: 
   pdf_slides: 

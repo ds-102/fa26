@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Decisions VI: Bayesian Multiple Testing"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-09-17
 files:
   slides: 
   pdf_slides: 

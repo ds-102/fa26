@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Decisions II: Hypothesis Testing"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-09-01
 files:
   slides: 
   pdf_slides: 

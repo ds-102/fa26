@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Decisions VII: Statistical Decision Theory (Loss Minimization and Bayes vs Frequentist)"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-09-22
 files:
   slides: 
   pdf_slides: 

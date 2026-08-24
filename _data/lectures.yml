@@ -20,30 +20,40 @@
 
 lectures:
   - slug: intro
-    readings:
-      - title: Introduction
-        link: https://inferentialthinking.com/chapters/01/what-is-data-science/index.html
-  - slug: 2
-    readings: 
-      - title: Causality and Experiments
-        link: https://inferentialthinking.com/chapters/02/causality-and-experiments/index.html
-  - slug: "03"
-    readings:
-      - links: 
-          - text: "Programming in Python"
-            url: "https://inferentialthinking.com/chapters/03/programming-in-python/"
-          - text: "Data Types"
-            url: "https://inferentialthinking.com/chapters/04/data-types/"
-  - slug: "04"
-  - slug: "05"
-  - slug: "06"
-  - slug: "07"
-  # - skip: true
-  - slug: "08"
-  - title: "No Lecture"
+  - slug: hypothesis-testing
+  - slug: vietnam-draft
+  - slug: selecting-test-statistic
+  - slug: p-values
+  - slug: frequentist-multiple-testing
+  - slug: bayesian-multiple-testing
+  - slug: statistical-decision-theory
+  - slug: parametric-models
+  - slug: parametric-estimation
+  - slug: estimators
+  - slug: validation
+  - slug: prior-modeling
+  - slug: sampling
+  - slug: linear-models
+  - slug: glm
+  - slug: logistic-regression
+  - slug: allegheny-algorithm
+  - slug: glm-selection
+  - slug: robustness
+  - slug: hierarchial-graphical-models
+  - slug: backpropagation
+  - slug: random-forest
+  - slug: depth-v-breadth
+  - slug: model-architecture
+  - slug: bandits
+  - title: <b>Holiday - No Lecture</b>
     nonumber: true
-    # link: "https://registrar.berkeley.edu/wp-content/uploads/UCB_AcademicCalendar_2025-26.pdf"
-  - slug: "09"
-  - slug: "10"
-  - slug: "11"
-
+  - slug: mcts
+  - slug: bayesian-optimization
+  - title: <b>RRR Week</b>
+    nonumber: true
+  - title: <b>RRR Week</b>
+    nonumber: true
+  - title: <b>Finals Week</b>
+    nonumber: true
+  - title: <b>Finals Week</b>
+    nonumber: true

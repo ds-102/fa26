@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Statistical Modeling IV: Sampling and Predictive Checks"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-10-13
 files:
   slides: 
   pdf_slides: 
@@ -17,4 +17,3 @@ files:
       link:
 recording: 
 ---
-

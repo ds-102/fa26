@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Case Study: Vietnam Draft Lottery and Permutation Tests"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-09-03
 files:
   slides: 
   pdf_slides: 

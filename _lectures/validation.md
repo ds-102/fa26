@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
-presented_by: Alexander Strang
-date: 2026-08-27
+title: "Statistical Modeling III: Validation"
+presented_by: Ramesh Sridharan
+date: 2026-10-06
 files:
   slides: 
   pdf_slides: 
@@ -17,4 +17,3 @@ files:
       link:
 recording: 
 ---
-

@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Statistical Modeling III: Analysis and Selection of Estimators"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-10-01
 files:
   slides: 
   pdf_slides: 

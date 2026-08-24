@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Decisions III: Selecting a Test Statistic"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-09-08
 files:
   slides: 
   pdf_slides: 
@@ -17,4 +17,3 @@ files:
       link:
 recording: 
 ---
-

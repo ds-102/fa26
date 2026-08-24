@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Deep Models III: Random Forest and Decision Trees"
 presented_by: Alexander Strang
-date: 2026-08-27
+date: 2026-11-12
 files:
   slides: 
   pdf_slides: 
@@ -17,4 +17,3 @@ files:
       link:
 recording: 
 ---
-
