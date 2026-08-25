@@ -58,7 +58,7 @@ berkeley_theme_options:
 google_calendar:
   # This can be found in the settings for the calendar.
   # The calendar must be publicly readable.
-  google_calendar_id: TODO
+  google_calendar_id: data102@berkeley.edu
   # You need to make this, once per course, ideally via a SPA
   # TODO: Recommend adding link to Google cloud project here
   google_api_key: TODO
