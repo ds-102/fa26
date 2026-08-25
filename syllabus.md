@@ -41,7 +41,6 @@ Please consult the [Resources]({{ site.baseurl }}/resources) page for additional
 ## Course Components
 
 ### Lectures and Textbook
-{:.no_toc}
 
 Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 - 2 PM in the Gateway, Room 1210**, and the companion to the lectures is the [Data 102 textbook](https://data102.org/ds-102-book/content/intro.html). Here's what you need to know about the relationship between the two:
 
@@ -56,7 +55,9 @@ The most common approach that students find helpful are to attend lecture and re
 
 Laptop use during lecture is discouraged. If you have circumstances that require or would benefit from the use of a laptop to support your learning during class (including *but not limited to* accommodations), you should fill out the [exemption form](https://docs.google.com/forms/d/e/1FAIpQLSdE14geFpuGBiEhd29XWFEQQwHv2CoN-qp5-3_u-bSrvHu9iQ/viewform?usp=sharing&ouid=102219649461355769783).
 
-### Discussion
+### Support (Discussion, OH)
+
+#### Discussion
 {:.no_toc}
 
 Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond. Each week, discussion worksheets will be posted on Wednesday. Answers (without full explanations) will be posted on Friday after the submission period closes.
@@ -75,7 +76,25 @@ Choose the option that will ultimately best suit your learning. In other data co
 
 You will have the option to switch between Option 1 and Option 2 after Midterm 1 grades have been returned, in week 7.
 
-### Practice 
+#### TA Office Hours
+{:.no_toc}
+
+We will run office hours in three separate formats: 
+
+1. Tutoring (sign up only, groups of up to 6). Use this [tutoring sign up]((https://calendar.app.google/o2wnSoQxYjE9W8uTA) form to register.
+
+1. Drop-In (in-person). In the Gateway building, B1040
+
+1. Drop-In (remote). 
+
+See [Ed](https://edstem.org/us/courses/101906/discussion/8207458), or the course calendar, for further details. 
+
+#### Professor Office Hours
+{:.no_toc}
+
+Professor Strang will host OH in the Gateway building, room B1040 D, from 2:30 - 4:00 pm on Thursdays. These are reservation only (up to groups of 5). Use this [booking link](https://calendar.app.google/rR42FGgWQ1w9ap4XA) to reserve a spot. 
+
+### Practice (Lab, HW)
 
 This semester we will *not grade any take-home work.* We will still release labs and problem sets as practice. We strongly encourage you to work through these genuinely, and to come into [tutoring](https://calendar.app.google/o2wnSoQxYjE9W8uTA), OH, or lab sessions to get help. The best way to learn a subject is to take responsibility for your own intellectual engagement with problems. Make study groups, budget time to work on the problems, and make sure you track your own engagement with the course. 
 
@@ -94,21 +113,25 @@ If lab sections are under-attended we may reduce the number of hours offered.
 Problem sets will be released every other week on Fridays. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures. They contain both math and coding tasks, as well as critical reflection questions that require you to explain your answers and put them into context.
 
 ### Exams
-{:.no_toc}
 
 There will be two midterms in this class and a final exam:
 
 - Midterm I on **September 28th**, 8-10PM
 - Midterm II on **November 2nd**, 8-10PM
-- Project quiz on **Friday, December 18th**, 8-11AM
+- Final exam on **Friday, December 18th**, 8-11AM
 
 All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP. Please use the exam conflict/clobber request form available through our [form glossary](https://edstem.org/us/courses/101906/discussion/8206849). **We will not accept any foreseeable conflicts after the drop deadline**.
 
-### Final Project
-{:.no_toc}
-At the end of the semester, you will apply the knowledge you learned in this class on a real-world dataset to complete a final project. You will be working in groups of 4. During the normal final exam time (Friday 12/19 from 9-11AM), you will take a quiz with questions about your project.
+#### Exam Format
 
-More details will be announced on Ed closer to the end of term.
+All exams will follow a regular format. The exams will include two parts:
+
+1. **Concepts and Definitions:** This part will ask you to complete concept question (T/F, M/C, fill-in-the-blank) or to provide, from scratch, key definitions or results from the course. Relevant results and definitions will be clearly highlighted in lecture and provided when we release the exam scope. Make sure you memorize these before you study anything else. 
+
+1. **Practice Problems:** To ensure that your practice problems are relevant, and that you know what to prepare for the exam, the last two thirds of each exam will consist exclusively of problems drawn verbatim (allowing new numbers or copy-edits for concision) from homework or lab. We will provide at most 4 problems on midterms, and ask you to choose 2 to complete. Since the final is a comprehensive exam, we will provide at most 7 problems and ask you to complete 4. 
+
+If you complete your practice thoroughly, you will be prepared for the exams.
+
 
 ## Grading Policies
 
