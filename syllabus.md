@@ -59,24 +59,26 @@ Laptop use during lecture is discouraged. If you have circumstances that require
 ### Discussion
 {:.no_toc}
 
-Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond. Each week, discussion worksheets and answers (without full explanations) will be posted online the following day.
+Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond. Each week, discussion worksheets will be posted on Wednesday. Answers (without full explanations) will be posted on Friday after the submission period closes.
 
-There will be 10 discussion sections, held almost every week: the sections on 10/7 and 11/26 will be cancelled, and the office hours on 11/19 and 12/3 will be replaced with office hours to help you prepare for midterm 2 and the project, respectively.
+There will be 10 discussion sections, held almost every week, excluding exam weeks.
 
 Discussion attendance will be **opt-in mandatory**: this means that you have the option at the start of the semester (and again at week 7) to choose between one of two options:
 
-* **Option 1 (discussion attendance, recommended)**: if you choose this option, you are committing to attend discussion section every week, and work with a group of 3 of your peers (i.e., groups of 4) on discussion questions. For each discussion section you attend, you will earn 1 discussion point, and your discussion grade will be computed as (number of discussion points) / 8: in other words, you may miss up to two discussion sections with no penalty.
+* **Option 1 (discussion attendance)**: if you choose this option, you are committing to attend discussion section every week, and work with a group of 3 of your peers (i.e., groups of 4) on discussion questions. If you attend *and participate*, then you will get full credit for the day.
 
-* **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You are welcome to access the worksheets and answers (without full solutions) posted online each week. If you choose option 2, you will receive full credit (i.e., 8 free discussion points). If you choose Option 2 for half the semester (see below for information about switching), you'll receive full credit for that half (i.e., 4 free discussion points).
+* **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You will be expected to submit the worksheets directly to Pensieve as you would a homework assignment (scanned PDF) *by Friday at noon*. Submitted worksheets will be graded for completion. If you switch to option 1 after the first midterm, then your remaining discussion grades will be based on participation. 
 
-While course staff strongly recommend choosing option 1, we encourage you to choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement). We will distribute a form during the first week **that all students must fill out** to choose between the options.
+Regradless the option you choose, we will drop your lowest two discussion scores. If you need to miss additional discussions for a reason outside your control, submit the [discussion excusal form](https://forms.gle/k383dhUcC9UJ1ngXA).
+
+Choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement). Complete this [discussion modality form](https://docs.google.com/forms/d/e/1FAIpQLSf35swUrJvE912MJ_9Tk4bZKowFBfuW9nRVviQ5VkASz2QOeg/viewform?usp=sharing&ouid=102219649461355769783) to select one of the two options and so that course staff can assign students to sections. 
 
 You will have the option to switch between Option 1 and Option 2 after Midterm 1 grades have been returned, in week 7.
 
 ### Lab
 {:.no_toc}
 
-Labs will be released every Friday evening as Jupyter notebooks, and due on **Wednesdays at 5PM**. Labs are a chance to get hands-on practice with the material in a more guided setting. Lab notebooks usually cover material from the past week's lecture, and give you a chance to implement and code up the more abstract ideas from lecture.
+Labs will be released every Friday evening as Jupyter notebooks. Labs are a chance to get hands-on practice with the material in a more guided setting. Lab notebooks usually cover material from the past week's lecture, and give you a chance to implement and code up the more abstract ideas from lecture.
 
 Lab-specific office hours will be held on **Mondays** by GSIs. These provide a good opportunity to work on lab assignments with your GSI. You may use these as a drop-in session to get help on specific questions, or as a section to work through the lab while in the room. During these office hours, questions on the lab assignment will be prioritized over any other questions, and other office hours will prioritize non-lab questions.
 
