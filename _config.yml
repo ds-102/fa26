@@ -46,8 +46,8 @@ aux_links:
   #   - 'https://www.gradescope.com/courses/{{ site.gradescope_course_id}}'
   # Pensieve:
   #   - 'https://www.pensieve.co/student/classes/data102_fa25'
-  # Extenuating Circumstances: 
-  #   - 'https://docs.google.com/forms/d/e/1FAIpQLSdA-Ubux1w-QjkXYkj0NnOW02olC43QS7sko9VdsvXHkgIosA/viewform?usp=header'
+  Requests: 
+    - 'https://edstem.org/us/courses/101906/discussion/8206849'
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...
