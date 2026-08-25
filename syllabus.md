@@ -65,51 +65,44 @@ There will be 10 discussion sections, held almost every week, excluding exam wee
 
 Discussion attendance will be **opt-in mandatory**: this means that you have the option at the start of the semester (and again at week 7) to choose between one of two options:
 
-* **Option 1 (discussion attendance)**: if you choose this option, you are committing to attend discussion section every week, and work with a group of 3 of your peers (i.e., groups of 4) on discussion questions. If you attend *and participate*, then you will get full credit for the day.
+* **Option 1 (discussion attendance)**: if you choose this option, you are committing to attend discussion section every week, and work with a group of 3 of your peers (i.e., groups of 4) on discussion questions. If you attend *and participate*, then you will get full credit for the day. Note, you will not get credit for attending and working by yourself, or waiting for the TAs to provide solutions.
 
-* **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You will be expected to submit the worksheets directly to Pensieve as you would a homework assignment (scanned PDF) *by Friday at noon*. Submitted worksheets will be graded for completion. If you switch to option 1 after the first midterm, then your remaining discussion grades will be based on participation. 
+* **Option 2 (no attendance)**: if you choose this option, you are choosing to not attend discussion section. You will be expected to submit the worksheets directly to Pensieve as you would a homework assignment (scanned PDF) *by Friday at noon*. Submitted worksheets will be graded for completion. If you switch to option 1 after the first midterm, then your remaining discussion grades will be based on participation. We will not accept late submissions. 
 
-Regradless the option you choose, we will drop your lowest two discussion scores. If you need to miss additional discussions for a reason outside your control, submit the [discussion excusal form](https://forms.gle/k383dhUcC9UJ1ngXA).
+Regardless the option you choose, we will drop your lowest two discussion scores. If you need to miss additional discussions for a reason outside your control, or cannot submit on time, submit the [discussion excusal form](https://forms.gle/k383dhUcC9UJ1ngXA).
 
-Choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement). Complete this [discussion modality form](https://docs.google.com/forms/d/e/1FAIpQLSf35swUrJvE912MJ_9Tk4bZKowFBfuW9nRVviQ5VkASz2QOeg/viewform?usp=sharing&ouid=102219649461355769783) to select one of the two options and so that course staff can assign students to sections. 
+Choose the option that will ultimately best suit your learning. In other data courses that have similar policies, choosing Option 1 is positively correlated with earning a higher grade (despite the additional attendance requirement). Complete this [discussion opt-in and scheduling form](https://docs.google.com/forms/d/e/1FAIpQLSf35swUrJvE912MJ_9Tk4bZKowFBfuW9nRVviQ5VkASz2QOeg/viewform?usp=sharing&ouid=102219649461355769783) to select one of the two options and so that course staff can assign students to sections. 
 
 You will have the option to switch between Option 1 and Option 2 after Midterm 1 grades have been returned, in week 7.
 
-### Lab
+### Practice 
+
+This semester we will *not grade any take-home work.* We will still release labs and problem sets as practice. We strongly encourage you to work through these genuinely, and to come into [tutoring](https://calendar.app.google/o2wnSoQxYjE9W8uTA), OH, or lab sessions to get help. The best way to learn a subject is to take responsibility for your own intellectual engagement with problems. Make study groups, budget time to work on the problems, and make sure you track your own engagement with the course. 
+
+#### Lab
 {:.no_toc}
 
-Labs will be released every Friday evening as Jupyter notebooks. Labs are a chance to get hands-on practice with the material in a more guided setting. Lab notebooks usually cover material from the past week's lecture, and give you a chance to implement and code up the more abstract ideas from lecture.
+Labs will be released most Friday evening as Jupyter notebooks. Labs are a chance to get hands-on practice with the material in a more guided setting. Lab notebooks usually cover material from the past week's lecture, and give you a chance to implement and code up the more abstract ideas from lecture.
 
 Lab-specific office hours will be held on **Mondays** by GSIs. These provide a good opportunity to work on lab assignments with your GSI. You may use these as a drop-in session to get help on specific questions, or as a section to work through the lab while in the room. During these office hours, questions on the lab assignment will be prioritized over any other questions, and other office hours will prioritize non-lab questions.
 
-When completing and submitting the lab, you may work individually or in pairs. You may pair up with any enrolled or waitlisted student for each lab: you do not have to work with the same person every week.
+If lab sections are under-attended we may reduce the number of hours offered. 
 
-### Homeworks
+#### Problem Sets (Homework)
 {:.no_toc}
-Homework assignments are released every other week on Fridays and due two Fridays after. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures. They contain both math and coding tasks, as well as critical reflection questions that require you to explain your answers and put them into context.
 
-- HW1 through HW5 must be submitted to Gradescope/Pensieve by their posted deadlines.
-- Each assignment will include detailed instructions on how to submit your work for grading. It is the student’s responsibility to read these carefully and ensure that their work is submitted correctly. Assignment accommodations will not be granted in cases where students have mis-submitted their work (for example, by submitting to the wrong portal, submitting only part of an assignment, or forgetting to select pages).
-- HW6 will be a discussion-based activity on Ed.
-- The primary form of support students will have for homeworks are **homework parties**, **office hours**, and **Ed**.
-- HW1-4 will be worth twice as much (i.e., 3% of your overall grade) as HW5-6 (i.e., 1.5% of your overall grade).
-
-### Vitamins
-{:.no_toc}
-Vitamins are weekly short Gradescope/Pensieve assignments to check that you are keeping up with lectures. They will be released on Thursdays after lecture and due on Sundays.
+Problem sets will be released every other week on Fridays. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures. They contain both math and coding tasks, as well as critical reflection questions that require you to explain your answers and put them into context.
 
 ### Exams
 {:.no_toc}
 
-There will be two midterms in this class and a project-related quiz:
+There will be two midterms in this class and a final exam:
 
-- Midterm I on **October 7th**, 8-10PM
-- Midterm II on **November 20th**, 8-10PM
-- Project quiz on **Friday, December 19th**, 9-11AM
+- Midterm I on **September 28th**, 8-10PM
+- Midterm II on **November 2nd**, 8-10PM
+- Project quiz on **Friday, December 18th**, 8-11AM
 
-Note that the project quiz will only have questions about your final project, and is not a comprehensive final exam.
-
-All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at [data102@berkeley.edu](mailto:data102@berkeley.edu). **We will not accept any conflicts after the drop deadline**.
+All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP. Please use the exam conflict/clobber request form available through our [form glossary](https://edstem.org/us/courses/101906/discussion/8206849). **We will not accept any foreseeable conflicts after the drop deadline**.
 
 ### Final Project
 {:.no_toc}
