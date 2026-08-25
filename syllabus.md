@@ -20,9 +20,9 @@ description: The course syllabus
 
 ## About the Course
 
-This course develops the probabilistic foundations of inference in data science. It builds a comprehensive view of the decision-making and modeling life cycle in data science, including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
+This course develops the probabilistic foundations of inference in data science. It builds a comprehensive view of the decision-making and modeling life cycle in data science, including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, robustness, bandit algorithms, fairness in classification, and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as [Data 102](https://classes.berkeley.edu/content/2025-fall-data-c102-001-lec-001).
+This class is listed as [Data 102](https://classes.berkeley.edu/content/2026-fall-data-c102-001-lec-001).
 
 
 ## Prerequisites
@@ -43,17 +43,18 @@ Please consult the [Resources]({{ site.baseurl }}/resources) page for additional
 ### Lectures and Textbook
 {:.no_toc}
 
-Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 - 2 PM in 105 Stanley**, and the companion to the lectures is the [Data 102 textbook](https://data102.org/ds-102-book/content/intro.html). Here's what you need to know about the relationship between the two:
+Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 - 2 PM in the Gateway, Room 1210**, and the companion to the lectures is the [Data 102 textbook](https://data102.org/ds-102-book/content/intro.html). Here's what you need to know about the relationship between the two:
 
 * Both cover the same material, but sometimes will provide complementary perspectives.
-* Each lecture page will contain a listing of the corresponding textbook sections.
+* We will sometimes direct you to reading outside the textbook. These external sources have been selected to expose you to professional writing on the topics surveyed in the textbook.
+* Each lecture page will contain a listing of the corresponding textbook sections or relevant external sources.
 * Lectures will be interactive, with several discussion questions and understanding checks that give you an opportunity to talk with your fellow students and solidify your understanding.
 * Most textbook sections have videos included with them, which are similar to, but not the same as, the corresponding lecture content.
-* Lecture recordings will not be made available (except as specified in arrangement with the DSP office).
+* Lecture recordings will not be made available (except as specified in arrangement with the DSP office). You may request lecture recordings through the [lecture recording request form](https://forms.gle/i6jmMNcmZytW1kXi8). All students will be granted two recordings without explanation. Further recording requests must be justified. For all policies, check the form.  
 
 The most common approach that students find helpful are to attend lecture and read the corresponding textbook sections, in whichever order you find most helpful to your own learning. Some students are able to follow all the material using only one or the other, but this is less common as a pathway to success.
 
-Laptop use during lecture is discouraged. If you have circumstances that require or would benefit from the use of a laptop to support your learning during class (including *but not limited to* accommodations), you should fill out the [exemption form](https://docs.google.com/forms/d/e/1FAIpQLSe2NVl_AEHaFTELCInp0CnoDtg3ADHuJ64Wlqw1coxNyL69YA/viewform?usp=dialog).
+Laptop use during lecture is discouraged. If you have circumstances that require or would benefit from the use of a laptop to support your learning during class (including *but not limited to* accommodations), you should fill out the [exemption form](https://docs.google.com/forms/d/e/1FAIpQLSdE14geFpuGBiEhd29XWFEQQwHv2CoN-qp5-3_u-bSrvHu9iQ/viewform?usp=sharing&ouid=102219649461355769783).
 
 ### Discussion
 {:.no_toc}
