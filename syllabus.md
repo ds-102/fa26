@@ -179,9 +179,9 @@ You are responsible for how you engage with the practice provided. You are welco
 
 ### Alternatives to LLM's
 
-Here's an honest portrait of the world before LLM's. 
+*Problem sets are hard.* They should be. College is meant to challenge you. So, don't be embarassed or discouraged if they are difficult. Completing problem sets genuinely requires work, grit, and deliberation. 
 
-*Problem sets are hard.* They should be. College is meant to challenge you. Completing problem sets genuinely requires work, grit, and deliberation. Start early. Work with friends. *Read* relevant resources. Memorize the essential ideas. Make plans that keep you honest to your work. Then, *use your resources*. You have access to 7 TA's, lab OH, tutoring sessions, drop-in OH, professor OH, discussion sections, and Ed with a professional course staff who are eager to help you. Come work with us. It is both our job, and our genuine pleasure, to help you, wherever you are at. 
+Start early. Since we won't grade take-home work, don't plan around deadlines. Direct your own schedule. Work with friends. *Read* relevant resources. Memorize the essential ideas. Make plans that keep you honest to your work. Then, *use your resources*. You have access to 7 TA's, lab OH, tutoring sessions, drop-in OH, professor OH, discussion sections, and Ed with a professional course staff who are eager to help you. Come work with us. It is both our job, and our genuine pleasure, to help you, wherever you are at. 
 
 
 ### Collaboration and Academic Integrity
@@ -191,7 +191,7 @@ We will be following the campus policy on [Academic Honesty](https://teaching.be
 
 ## Waitlist
 
-If you are on the waitlist, you should complete and submit all assignments as if enrolled: we will not offer any makeup assignments or extensions for waitlisted students.
+If you are on the waitlist, you should complete and submit all discussions as if enrolled.
 
 For all other enrollment related issues, please reach out to the [Data Science advisors](https://data.berkeley.edu/spring-2024-classes-enrollment-info), as instructors and staff do not manage enrollment into the class.
 
