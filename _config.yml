@@ -61,7 +61,7 @@ google_calendar:
   google_calendar_id: data102@berkeley.edu
   # You need to make this, once per course, ideally via a SPA
   # TODO: Recommend adding link to Google cloud project here
-  google_api_key: TODO
+  google_api_key: AIzaSyAFvBHBsnoCyk9ZLkkuYkP5S_iQEbfcloY
   # These are processed in order, top-to-bottom, first match applies
   # The prefix/suffix matches the Google Calendar event *title*
   # You may use only prefix OR suffix, see fullcalendar.js
