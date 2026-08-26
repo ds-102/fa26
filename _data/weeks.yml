@@ -8,7 +8,16 @@
 # you can also delete this file if you don't want to have any labeled weeks
 weeks:
   - title: "Introduction"
-  - skip: true
-  - title: "Pandas and API"
-  - title: "Surveys and RCTs"
-  - title: "Visualization"
+  - title: "Hypothesis Testing"
+  - title: "Hypothesis Testing"
+  - title: "Multiple Testing"
+  - title: "Decision Theory and StatisticalModels"
+  - title: "Statistical Models"
+  - title: "Statistical Models"
+  - title: "Statistical Models"
+  - title: "Generalized Linear Models"
+  - title: "Generalized Linear Models"
+  - title: "Deep Learning Models"
+  - title: "Deep Learning Models"
+  - title: "Online Decision Making"
+  - title: "Online Decision Making"
