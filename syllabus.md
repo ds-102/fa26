@@ -85,7 +85,7 @@ We will run office hours in three separate formats:
 
 1. Drop-In (in-person). In the Gateway building, B1040
 
-1. Drop-In (remote). 
+1. Drop-In (remote). See post and calendar for zoom link (to come).
 
 See [Ed](https://edstem.org/us/courses/101906/discussion/8207458), or the course calendar, for further details. 
 
@@ -149,11 +149,12 @@ Grades will be assigned using the following weighted components:
 ### Regrade Requests
 * After each assignment is graded, course staff will post the deadline for regrade requests for that assignment on Ed.
 * To ensure that our grading team is not overworked, **regrade requests for each assignment must be submitted before the deadline** (except in cases of emergencies).
-* Note: When you submit a regrade request, we will take a fresh look at the question, so it is possible that you will receive a grade lower that what you originally received.
 
 ### Extenuating Circumstances
 
-We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. Navigate to our [form glossary](https://edstem.org/us/courses/101906/discussion/8206849) and select the appropriate form. If no form matches your need, please email us at [data102@berkeley.edu](data102@berkeley.edu).Within two business days, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. 
+We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. Navigate to our [form glossary](https://edstem.org/us/courses/101906/discussion/8206849) and select the appropriate form. 
+
+If no form matches your need, please email us at [data102@berkeley.edu](data102@berkeley.edu). Within two business days, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. 
 
 In general, the sooner we are made aware, the more options we have available to us to help you.
 
@@ -179,9 +180,11 @@ You are responsible for how you engage with the practice provided. You are welco
 
 ### Alternatives to LLM's
 
-*Problem sets are hard.* They should be. College is meant to challenge you. So, don't be embarassed or discouraged if they are difficult. Completing problem sets genuinely requires work, grit, and deliberation. 
+*Problem sets are hard.* They should be. College is meant to challenge you. So, don't be embarassed or discouraged if they are difficult. Completing problem sets genuinely requires grit and deliberation. Like all hard things, it gets easier the more you work at it. Like physical exercise, or a good puzzle, chewing on a problem set can be fun, even if it is hard.
 
-Start early. Since we won't grade take-home work, don't plan around deadlines. Direct your own schedule. Work with friends. *Read* relevant resources. Memorize the essential ideas. Make plans that keep you honest to your work. Then, *use your resources*. You have access to 7 TA's, lab OH, tutoring sessions, drop-in OH, professor OH, discussion sections, and Ed with a professional course staff who are eager to help you. Come work with us. It is both our job, and our genuine pleasure, to help you, wherever you are at. 
+So, start early. Since we won't grade take-home work, don't plan around deadlines. Direct your own schedule. Work with friends. *Read* relevant resources. Memorize the essential ideas. Make plans that keep you honest to your work. 
+
+Then, *use your resources*. You have access to 7 TA's, lab OH, tutoring sessions, drop-in OH, professor OH, discussion sections, and Ed with a professional course staff who are eager to help you. Come work with us. It is both our job, and our genuine pleasure, to help you, wherever you are at. 
 
 
 ### Collaboration and Academic Integrity
