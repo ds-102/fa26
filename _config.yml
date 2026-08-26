@@ -42,10 +42,10 @@ favicon_ico: "assets/brand/favicon.png"
 aux_links:
   Ed:
     - "https://edstem.org/us/courses/101906/discussion"
-  Gradescope:
-    - "https://www.gradescope.com/courses/1355348"
-  # Pensieve:
-  #   - 'https://www.pensieve.co/student/classes/data102_fa25'
+  # Gradescope:
+  #   - "https://www.gradescope.com/courses/1355348"
+  Pensive:
+   - 'https://www.pensive.com/student/classes/data102_fa26'
   Requests:
     - "https://edstem.org/us/courses/101906/discussion/8206849"
 
