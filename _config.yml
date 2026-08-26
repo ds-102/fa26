@@ -19,13 +19,13 @@ tagline: Data, Inference, and Decisions
 description: The course website for UC Berkeley's Data 102 course
 author: Data 102 staff
 
-baseurl: '/fa26' # the subpath of your site, which should just be the semester.
-url: 'https://data102.org'
+baseurl: "/fa26" # the subpath of your site, which should just be the semester.
+url: "https://data102.org"
 
 # Course variables
 course: Data 102
 course_email: data102@berkeley.edu
-gradescope_course_id:  # you can find this in the Gradescope URL after /courses
+gradescope_course_id: # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 1557891 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 102212 # Again, same as above.
 sememster: fa26 # set for the current seemester
@@ -41,13 +41,13 @@ favicon_ico: "assets/brand/favicon.png"
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
   Ed:
-    - 'https://edstem.org/us/courses/101906/discussion'
+    - "https://edstem.org/us/courses/101906/discussion"
   Gradescope:
-    - 'https://www.gradescope.com/courses/1355348'
+    - "https://www.gradescope.com/courses/1355348"
   # Pensieve:
   #   - 'https://www.pensieve.co/student/classes/data102_fa25'
-  Requests: 
-    - 'https://edstem.org/us/courses/101906/discussion/8206849'
+  Requests:
+    - "https://edstem.org/us/courses/101906/discussion/8206849"
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...
@@ -66,40 +66,45 @@ google_calendar:
   # The prefix/suffix matches the Google Calendar event *title*
   # You may use only prefix OR suffix, see fullcalendar.js
   event_types:
-    - suffix: Lecture
-      background_color: '9FD1FF' # Blue light
-      text_color: '000'
+    - prefix: Lecture
+      background_color: "FBD75B" # yellow
+      text_color: "000000"
       class: cal-lecture
       icon: fa-school
-    - suffix: Tea Hours
-      background_color: 'FFE88D' # gold light
-      text_color: '000'
-      class: cal-tea-oh
-      icon: fa-mug-hot
-    - suffix: Faculty Office Hours
-      background_color: 'FFC31B' # gold medium
-      text_color: '000'
-      class: cal-tea-oh
-      icon: fa-person-circle-question
-    - suffix: Office Hours
-      background_color: 'D9CEFF' # purple light
-      text_color: '000000'
-      class: cal-oh
-      icon: fa-person-circle-question
-    - suffix: Tutoring Section
-      background_color: 'FFCFE5' # rose light
-      text_color: '000000'
-      class: cal-tutoring
-      icon: fa-people-group
-    - suffix: Section
-      background_color: '004AAE' # blue medium
-      text_color: 'FFFFFF'
+    - prefix: Lab
+      background_color: "FFB878" # orange
+      text_color: "000000"
+      class: cal-lab
+      icon: fa-flask
+    - prefix: Discussion
+      background_color: "DC2127" # red
+      text_color: "FFFFFF"
       class: cal-disc-section
       icon: fa-person-chalkboard
-    - suffix: Exam
-      background_color: 'FA8072' # salmon red
-      text_color: '000000'
+    - prefix: Open-Door OH (In Person)
+      background_color: "E1E1E1" # gray
+      text_color: "000000"
+      class: cal-oh
+      icon: fa-person-circle-question
+    - prefix: Open-Door OH (Online)
+      background_color: "46D6DB" # teal
+      text_color: "000000"
+      class: cal-online-oh
+      icon: fa-video
+    - prefix: Tutoring
+      background_color: "FFCFE5" # rose light
+      text_color: "000000"
       class: cal-tutoring
+      icon: fa-people-group
+    - prefix: Midterm
+      background_color: "FA8072" # salmon red
+      text_color: "000000"
+      class: cal-exam
+      icon: fa-school
+    - prefix: Final Exam
+      background_color: "FA8072" # salmon red
+      text_color: "000000"
+      class: cal-exam
       icon: fa-school
 
 # Collections for website data
@@ -136,55 +141,54 @@ plugins:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: labs
     values:
       layout: lab
       nav_exclude: true
   - scope:
-      path: ''
+      path: ""
       type: discussions
     values:
       layout: discussion
       nav_exclude: true
-      subpath: 'assets/discussions/'
+      subpath: "assets/discussions/"
   - scope:
-      path: ''
+      path: ""
       type: hw
     values:
       layout: hw
       nav_exclude: true
   - scope:
-      path: ''
+      path: ""
       type: projects
     values:
       layout: project
       nav_exclude: true
   - scope:
-      path: '_staffers'
+      path: "_staffers"
       type: staffers
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
       width: 300
   - scope:
-      path: ''
+      path: ""
       type: calendars
     values:
       layout: calendar
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
   - scope:
-      path: ''
+      path: ""
       type: lectures
     values:
       layout: lecture
       time: 00:00 # Default release time of lectures is currently set to 12:00 AM
-
 
 ######################################################################
 # Just the Docs / Berkeley Class Site Common Config
@@ -232,7 +236,7 @@ footer_content: true
 back_to_top: true
 back_to_top_text: "Back to Top"
 last_edit_timestamp: true
-last_edit_time_format: '%m %d, %Y at %H:%M'
+last_edit_time_format: "%m %d, %Y at %H:%M"
 
 # Compilation settings used by compress-html plugin:
 # https://github.com/penibelst/jekyll-compress-html/tree/v3.2.0?tab=readme-ov-file
