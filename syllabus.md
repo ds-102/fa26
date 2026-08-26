@@ -81,7 +81,7 @@ You will have the option to switch between Option 1 and Option 2 after Midterm 1
 
 We will run office hours in three separate formats: 
 
-1. Tutoring (sign up only, groups of up to 6). Use this [tutoring sign up]((https://calendar.app.google/o2wnSoQxYjE9W8uTA) form to register.
+1. Tutoring (sign up only, groups of up to 6). Use this [tutoring sign up](https://calendar.app.google/o2wnSoQxYjE9W8uTA) form to register.
 
 1. Drop-In (in-person). In the Gateway building, B1040
 
