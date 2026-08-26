@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Course Intro, Math Pretest, Decisions 1: Binary Decision Basics"
+title: "Course Intro, Math Pretest, Decisions I"
 presented_by: Alexander Strang
 date: 2026-08-27
 files:
