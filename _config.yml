@@ -45,7 +45,7 @@ aux_links:
   # Gradescope:
   #   - "https://www.gradescope.com/courses/1355348"
   Pensive:
-   - 'https://www.pensive.com/student/classes/data102_fa26'
+    - "https://www.pensive.com/student/classes/data102_fa26"
   Requests:
     - "https://edstem.org/us/courses/101906/discussion/8206849"
 

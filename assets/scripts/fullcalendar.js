@@ -19,11 +19,18 @@ let extend_event = (event, config) => {
 }
 
 let transform_calendar_event = (event) => {
-  let title = event.title.trim();
+  let title = (event.title || "").trim();
+
+  // Hide individual tutoring reservations
+  if (/^Tutoring\s*\(/i.test(title)) {
+    return false;
+  }
+
   for (config of EVENT_CONFIG) {
     if (config.prefix && title.startsWith(config.prefix)) {
       return extend_event(event, config);
     }
+
     if (config.suffix && title.endsWith(config.suffix.trim())) {
       return extend_event(event, config);
     }
