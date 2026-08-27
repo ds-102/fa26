@@ -39,7 +39,7 @@ let transform_calendar_event = (event) => {
   }
 
   if (!title || title.toLowerCase() === "undefined") {
-    event.title = "Busy";
+    event.title = "Booked";
     return event;
   }
 
