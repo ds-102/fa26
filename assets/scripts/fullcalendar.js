@@ -30,8 +30,14 @@ let extend_event = (event, config) => {
 let transform_calendar_event = (event) => {
   let title = (event.title || "").trim();
 
-  // Google strips the title from private events in the public calendar feed.
-  // Display those events as "Busy" instead of "undefined".
+  if (
+    title.startsWith("Tutoring (") ||
+    title.startsWith("Professor Strang OH (")
+  ) {
+    event.title = "Booked";
+    return event;
+  }
+
   if (!title || title.toLowerCase() === "undefined") {
     event.title = "Busy";
     return event;
