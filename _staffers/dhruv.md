@@ -1,5 +1,5 @@
 ---
-name: Dhruv Pendharker
+name: Dhruv Pendharkar
 role: TA
 email: dhruvpendharkar
 photo: Dhruv.jpeg
