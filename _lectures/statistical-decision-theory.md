@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Decisions VII: Statistical Decision Theory (Loss Minimization and Bayes vs Frequentist)"
+title: "Decisions VII: Statistical Decision Theory"
 presented_by: Alexander Strang
 date: 2026-09-22
 files:

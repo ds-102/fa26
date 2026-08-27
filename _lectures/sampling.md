@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Statistical Modeling IV: Sampling and Predictive Checks"
+title: "Statistical Modeling V: Sampling and Predictive Checks"
 presented_by: Alexander Strang
 date: 2026-10-13
 files:
