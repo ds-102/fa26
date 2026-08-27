@@ -2,31 +2,42 @@
 ---
 
 let GOOGLE_CALENDAR_ID = '{{ site.google_calendar.google_calendar_id }}';
+
 let EVENT_CONFIG = {{ site.google_calendar.event_types | jsonify }};
 
 let extend_event = (event, config) => {
   if (config.background_color) {
-      event.backgroundColor = `#${config.background_color}`;
-      event.borderColor = '#FFFFFF';
-    }
-  if (config.text_color) { event.textColor = `#${config.text_color}`; }
-  if (config.class) { event.classNames = config.class; }
+    event.backgroundColor = `#${config.background_color}`;
+    event.borderColor = '#FFFFFF';
+  }
+
+  if (config.text_color) {
+    event.textColor = `#${config.text_color}`;
+  }
+
+  if (config.class) {
+    event.classNames = config.class;
+  }
+
   if (config.icon) {
     event.extendedProps ||= {};
     event.extendedProps.icon = config.icon;
   }
+
   return event;
-}
+};
 
 let transform_calendar_event = (event) => {
   let title = (event.title || "").trim();
 
-  // Hide individual tutoring reservations
-  if (/^Tutoring\s*\(/i.test(title)) {
-    return false;
+  // Google strips the title from private events in the public calendar feed.
+  // Display those events as "Busy" instead of "undefined".
+  if (!title || title.toLowerCase() === "undefined") {
+    event.title = "Busy";
+    return event;
   }
 
-  for (config of EVENT_CONFIG) {
+  for (const config of EVENT_CONFIG) {
     if (config.prefix && title.startsWith(config.prefix)) {
       return extend_event(event, config);
     }
@@ -37,7 +48,7 @@ let transform_calendar_event = (event) => {
   }
 
   return event;
-}
+};
 
 /* NOTES / Future Things:
  * Set initial date to start of semester if semester is over.
