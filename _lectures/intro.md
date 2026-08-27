@@ -13,6 +13,8 @@ files:
   additional_files:
     - name: Prerequisite Pretest
       link: https://drive.google.com/file/d/1L6sWsy1Jgold8A6fARtwWZp059wMDONu/view?usp=sharing
+    - name: Pensive Submission for Pretest
+      link: https://www.pensive.com/student/classes/data102_fa26/my-assignments?submitAssignment=dd5829a2-f2eb-4077-9523-a76b94926441
 recording: 
 ---
 
