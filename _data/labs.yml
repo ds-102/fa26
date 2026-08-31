@@ -14,6 +14,7 @@
 # you provided a slug or provides an external link
 labs:
   - title: Lab 1
+    link: https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flab%2Flab01%2Flab01.ipynb&branch=main
   - title: Lab 2
   - title: Lab 3
   - skip: true
