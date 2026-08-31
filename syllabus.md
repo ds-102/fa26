@@ -37,6 +37,13 @@ We currently require the following (or equivalent) prerequisites:
 
 Please consult the [Resources]({{ site.baseurl }}/resources) page for additional resources for reviewing prerequisite material.
 
+### Pretest and Eligibility
+
+We will require that every student complete a pretest on the prerequisites before enrolling. The pretest will be graded for completion, not accuracy. All students who complete 80% or more of the pretest are elgible to enroll. 
+
+All students who complete **less than 80% of the pretest will be dropped from the course at the end of week 2** and will be required to complete the pretest to rejoin the class. They must recieve permission to resubmit, and will join at the back of the waitlist unless otherwise granted an exemption.
+
+Students on the waitlist should contact us asking to be added to course platforms. They will be required to submit the pretest there before enrolling. 
 
 ## Course Components
 
