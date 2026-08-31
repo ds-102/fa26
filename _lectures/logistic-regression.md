@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Wide Models III: GLM's as classifiers (Logistic Regression)"
+title: "Wide Models II: GLM's as classifiers (Logistic Regression)"
 presented_by: Alexander Strang
-date: 2026-10-28
+date: 2026-10-20
 files:
   slides: 
   pdf_slides: 

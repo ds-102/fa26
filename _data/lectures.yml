@@ -33,7 +33,6 @@ lectures:
   - slug: prior-modeling
   - slug: sampling 1
   - slug: sampling 2
-  - slug: linear-models
   - slug: glm
   - slug: logistic-regression
   - slug: allegheny-algorithm
@@ -44,7 +43,8 @@ lectures:
   - slug: random-forest
   - slug: depth-v-breadth
   - slug: model-architecture
-  - slug: bandits
+  - slug: bandits 1
+  - slug: bandits 2
   - title: <b>Holiday - No Lecture</b>
     nonumber: true
   - slug: mcts

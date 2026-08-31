@@ -2,7 +2,7 @@
 published: true
 title: "Deep Models V: Model Architecture"
 presented_by: Alexander Strang
-date: 2026-11-19
+date: 2026-11-17
 files:
   slides: 
   pdf_slides: 

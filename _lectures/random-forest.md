@@ -2,7 +2,7 @@
 published: true
 title: "Deep Models III: Random Forest and Decision Trees"
 presented_by: Alexander Strang
-date: 2026-11-12
+date: 2026-11-10
 files:
   slides: 
   pdf_slides: 

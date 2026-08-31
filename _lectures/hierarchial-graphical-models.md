@@ -2,7 +2,7 @@
 published: true
 title: "Deep Models I: Hierarchical/Graphical Models"
 presented_by: Alexander Strang
-date: 2026-11-05
+date: 2026-11-03
 files:
   slides: 
   pdf_slides: 

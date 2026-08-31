@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Wide Models IV: Modeling checking and selection in GLM's"
+title: "Wide Models III: Modeling checking and selection in GLM's"
 presented_by: Alexander Strang
-date: 2026-10-29
+date: 2026-10-27
 files:
   slides: 
   pdf_slides: 

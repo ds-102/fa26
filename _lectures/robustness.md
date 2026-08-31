@@ -2,7 +2,7 @@
 published: true
 title: "Case Study: Robustness"
 presented_by: Alexander Strang
-date: 2026-11-03
+date: 2026-10-29
 files:
   slides: 
   pdf_slides: 

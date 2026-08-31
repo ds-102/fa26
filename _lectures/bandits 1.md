@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Case Study: Allegheny Algorithm"
+title: "Online Decision Making I: Bandits"
 presented_by: Alexander Strang
-date: 2026-10-22
+date: 2026-11-19
 files:
   slides: 
   pdf_slides: 

@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Wide Models II: Estimation/regression in GLM's"
+title: "Wide Models I: Estimation/regression in GLM's"
 presented_by: Alexander Strang
-date: 2026-10-20
+date: 2026-10-15
 files:
   slides: 
   pdf_slides: 
