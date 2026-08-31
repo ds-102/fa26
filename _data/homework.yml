@@ -14,6 +14,7 @@
 # you provided a slug or provides an external link
 homework:
   - title: Homework 1
+    link: https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&branch=main&urlpath=lab%2Ftree%2Ffa26-materials%2Fhomework%2Fhw01%2FHomework1.pdf
   - skip: true
   - title: Homework 2
   - skip: true
