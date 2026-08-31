@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Case Study: Prior Modeling"
+title: "Statistical Modeling V: Sampling and Predictive Checks"
 presented_by: Alexander Strang
-date: 2026-10-06
+date: 2026-10-08
 files:
   slides: 
   pdf_slides: 

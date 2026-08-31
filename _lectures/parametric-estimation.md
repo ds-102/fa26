@@ -2,7 +2,7 @@
 published: true
 title: "Statistical Modeling II: Parametric Estimation"
 presented_by: Alexander Strang
-date: 2026-09-29
+date: 2026-09-24
 files:
   slides: 
   pdf_slides: 

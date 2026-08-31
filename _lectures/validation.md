@@ -1,8 +1,8 @@
 ---
 published: true
 title: "Statistical Modeling IV: Validation"
-presented_by: Ramesh Sridharan
-date: 2026-10-06
+presented_by: Alexander Strang
+date: 2026-10-01
 files:
   slides: 
   pdf_slides: 

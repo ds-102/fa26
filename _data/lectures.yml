@@ -23,7 +23,6 @@ lectures:
   - slug: hypothesis-testing
   - slug: vietnam-draft
   - slug: selecting-test-statistic
-  - slug: p-values
   - slug: frequentist-multiple-testing
   - slug: bayesian-multiple-testing
   - slug: statistical-decision-theory
@@ -32,7 +31,8 @@ lectures:
   - slug: estimators
   - slug: validation
   - slug: prior-modeling
-  - slug: sampling
+  - slug: sampling 1
+  - slug: sampling 2
   - slug: linear-models
   - slug: glm
   - slug: logistic-regression

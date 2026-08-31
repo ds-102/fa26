@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Decisions III: Selecting a Test Statistic"
-presented_by: Alexander Strang
+presented_by: Ramesh Sridharan
 date: 2026-09-08
 files:
   slides: 

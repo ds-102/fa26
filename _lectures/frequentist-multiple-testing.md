@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Decisions V: Frequentist Multiple Testing"
-presented_by: Alexander Strang
-date: 2026-09-15
+title: "Decisions IV: Frequentist Multiple Testing"
+presented_by: Ramesh Sridharan
+date: 2026-09-10
 files:
   slides: 
   pdf_slides: 

@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Decisions VI: Bayesian Multiple Testing"
+title: "Decisions V: Bayesian Multiple Testing"
 presented_by: Alexander Strang
-date: 2026-09-17
+date: 2026-09-15
 files:
   slides: 
   pdf_slides: 

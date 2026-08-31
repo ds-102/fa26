@@ -2,7 +2,7 @@
 published: true
 title: "Statistical Modeling I: Parametric Models"
 presented_by: Alexander Strang
-date: 2026-09-24
+date: 2026-09-22
 files:
   slides: 
   pdf_slides: 

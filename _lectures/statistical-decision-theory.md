@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Decisions VII: Statistical Decision Theory"
+title: "Decisions VI: Statistical Decision Theory"
 presented_by: Alexander Strang
-date: 2026-09-22
+date: 2026-09-27
 files:
   slides: 
   pdf_slides: 

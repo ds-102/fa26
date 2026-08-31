@@ -2,7 +2,7 @@
 published: true
 title: "Statistical Modeling III: Analysis and Selection of Estimators"
 presented_by: Alexander Strang
-date: 2026-10-01
+date: 2026-09-29
 files:
   slides: 
   pdf_slides: 
