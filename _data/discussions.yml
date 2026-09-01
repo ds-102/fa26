@@ -10,12 +10,11 @@
 # nonumber supresses the label and numbering for the discussion entry
 # skip: true will omit the discussion from the schedule entirely
 
-# link overrides the default link to the discussion page from the collection if 
+# link overrides the default link to the discussion page from the collection if
 # you provided a slug or provides an external link
 discussions:
-  - title: Discussion 0
-    link: https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F
-  - slug: disc01
+  - title: Discussion 1
+    link: https://drive.google.com/file/d/1PBOisW04dUDT1x1hQDwlm6BcWirmOHb1/view?usp=sharing
   - title: Discussion 2
   - skip: true
   - title: Discussion 3
