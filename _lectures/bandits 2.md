@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Online Decision Making I: Bandits"
+title: "Online Decision Making II: Bandits"
 presented_by: Alexander Strang
 date: 2026-11-24
 files:
