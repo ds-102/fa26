@@ -5,7 +5,7 @@ presented_by: Ramesh Sridharan
 date: 2026-09-08
 files:
   slides: https://docs.google.com/presentation/d/1cKU_bYhrToDwsja8RQP7rZwvvLQfaTv_VMaS6QaN83c/edit?usp=sharing
-  pdf_slides: 
+  pdf_slides: https://drive.google.com/file/d/1oItg2t1HQoYA64CsHh6-S4yLgOMbpTzW/view?usp=sharing
   code: 
   code_html: 
   notebook: 
