@@ -11,8 +11,6 @@ files:
   notebook: 
   notes: 
   additional_files:
-    - name: The Neyman Pearson Lemma. Stanford, Stat 200, Lecture 6.
-      link: https://web.stanford.edu/class/archive/stats/stats200/stats200.1172/Lecture06.pdf
 recording: 
 ---
 
