@@ -11,8 +11,8 @@ files:
   notebook: 
   notes: https://data102.org/ds-102-book/content/chapters/01/decision-theory/
   additional_files:
-    - name: 
-      link: 
+    - name: Typeset Lecture Notes
+      link: https://drive.google.com/file/d/1vA5RqksX7QGgZf0_9p-1rJMUDF-ytn6L/view?usp=sharing
     - name:
       link:
 recording: 
