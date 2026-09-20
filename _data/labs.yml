@@ -19,9 +19,9 @@ labs:
     link: https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flab%2Flab02%2Flab02.ipynb&branch=main
   - title: Lab 3
     link: https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flab%2Flab03%2Flab03.ipynb&branch=main
-  - skip: true
   - title: Lab 4
     link: https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flab%2Flab04%2Flab04.ipynb&branch=main
+  - skip: true
   - title: Lab 5
   - title: Lab 6
   - title: Lab 7
