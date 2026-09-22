@@ -4,8 +4,8 @@ title: "Statistical Modeling I: Parametric Models"
 presented_by: Alexander Strang
 date: 2026-09-22
 files:
-  slides: 
-  pdf_slides: 
+  slides: https://docs.google.com/presentation/d/1nlcKxfDM3R8tUNOT-alrIKrvkm8UYqVP7EYI0PPGQDs/edit?usp=sharing
+  pdf_slides: https://docs.google.com/presentation/d/1nlcKxfDM3R8tUNOT-alrIKrvkm8UYqVP7EYI0PPGQDs/edit?usp=sharing
   code: 
   code_html: 
   notebook: 
