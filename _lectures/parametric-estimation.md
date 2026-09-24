@@ -11,8 +11,8 @@ files:
   notebook: 
   notes: 
   additional_files:
-    - name: 
-      link: 
+    - name: Conjugate Priors and Exponential Families (Michael Jordan)
+      link: https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf
     - name:
       link:
 recording: 
