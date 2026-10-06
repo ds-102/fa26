@@ -6,7 +6,7 @@ date: 2026-10-06
 files:
   slides: 
   pdf_slides: 
-  code: 
+  code: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flecture%2Flecture12%2Flec12b.ipynb&branch=main
   code_html: 
   notebook: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flecture%2Flecture12%2Flec12b.ipynb&branch=main
   notes: https://data102.org/ds-102-book/content/chapters/02/hierarchical-models/
