@@ -8,7 +8,7 @@ files:
   pdf_slides: 
   code: 
   code_html: 
-  notebook: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flecture%2Flecture12%2Flec12.ipynb&branch=main
+  notebook: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa26-materials&urlpath=tree%2Ffa26-materials%2Flecture%2Flecture12%2Flec12b.ipynb&branch=main
   notes: https://data102.org/ds-102-book/content/chapters/02/hierarchical-models/
   additional_files:
     - name: Graphical Models
