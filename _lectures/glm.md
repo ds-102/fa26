@@ -5,7 +5,7 @@ presented_by: Alexander Strang
 date: 2026-10-15
 files:
   slides: https://docs.google.com/presentation/d/1qEVzNSBR-mYBU-CttgCRwJttIaYXfKrgdbA3876mF9g/edit?usp=sharing
-  pdf_slides: https://drive.google.com/file/d/1uuhGYeJvoCgX_c48UQ4db7VYroq6PQoE/view?usp=sharing
+  pdf_slides: https://drive.google.com/file/d/1beZOsNIkNWV5bydot6rg_zbDNOhMWLgk/view?usp=sharing
   code: 
   code_html: 
   notebook: 
