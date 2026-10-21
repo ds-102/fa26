@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Wide Models III: Modeling checking and selection in GLM's"
+title: "Wide Models III: Uncertainty Quantification, Stability, and Model Evaluation"
 presented_by: Alexander Strang
 date: 2026-10-27
 files:
