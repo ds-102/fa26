@@ -35,8 +35,8 @@ lectures:
   - slug: sampling-2
   - slug: glm
   - slug: logistic-regression
-  - slug: allegheny-algorithm
   - slug: glm-selection
+  - slug: allegheny-algorithm
   - slug: robustness
   - slug: hierarchial-graphical-models
   - slug: backpropagation
