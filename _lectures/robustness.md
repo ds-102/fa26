@@ -4,8 +4,8 @@ title: "Case Study: Robustness"
 presented_by: Alexander Strang
 date: 2026-10-27
 files:
-  slides: 
-  pdf_slides: 
+  slides: https://docs.google.com/presentation/d/1T-OZPQPSz7NbEeEItJvdEV23pxWNWWUWprLy1jBjgr0/edit?usp=sharing
+  pdf_slides: https://drive.google.com/file/d/1P6fJaGzMz_jsiTH6S1fzHe2mgL1tydXf/view?usp=sharing
   code: 
   code_html: 
   notebook: 
