@@ -19,6 +19,7 @@ Jump to:
 
 | Semester | Midterm 1 | Midterm 2 | Final |
 | -- | -- | -- | -- |
+| Fall 2026 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa26_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/fa26_mt1_sol.pdf)) | | |
 | Fall 2025 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa25_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/fa25_mt1_sol.pdf)) |  [Exam]({{ site.baseurl }}/assets/exams/midterm_2/fa25_mt2.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_2/fa25_mt2_sol.pdf)) | |
 | Spring 2025 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/sp25_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/sp25_mt1_sol.pdf)) |[Exam]({{ site.baseurl }}/assets/exams/midterm_2/sp25_mt2.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_2/sp25_mt2_sol.pdf)) | |
 | Fall 2024 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa24_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/fa24_mt1_sol.pdf)) | [Exam]({{ site.baseurl }}/assets/exams/midterm_2/fa24_mt2.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_2/fa24_mt2_sol.pdf))| |
