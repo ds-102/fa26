@@ -15,7 +15,9 @@ files:
       link: https://data102.org/ds-102-book/content/chapters/03/uncertainty-quantification/
     - name: Yu and Barter, Veridical Data Science (2024)
       link: https://vdsbook.com/
-    - name: Breznau et al. Hidden Universe of Uncertainty (2022)
+    - name: Breznau et al. Hidden Universe of Uncertainty. PNAS (2022).
       link: https://www.pnas.org/doi/10.1073/pnas.2203150119
+    - name: Aczel et al. Investigating the Analytical Robustness of Social and Behavioural Sciences. Nature (2026).
+      link: https://www.nature.com/articles/s41586-025-09844-9
 recording: 
 ---
