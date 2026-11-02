@@ -38,17 +38,17 @@ lectures:
   - slug: glm-selection
   - slug: robustness
   - slug: allegheny-algorithm
-  - slug: hierarchial-graphical-models
   - slug: backpropagation
   - slug: random-forest
   - slug: depth-v-breadth
   - slug: model-architecture
   - slug: bandits-1
   - slug: bandits-2
+  - slug: mcts
   - title: <b>Holiday - No Lecture</b>
     nonumber: true
-  - slug: mcts
   - slug: bayesian-optimization
+  - slug: course-wrap-up
   - title: <b>RRR Week</b>
     nonumber: true
   - title: <b>RRR Week</b>
