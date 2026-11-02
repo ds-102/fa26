@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Deep Models V: Model Architecture"
+title: "Deep Models IV: Model Architecture"
 presented_by: Alexander Strang
-date: 2026-11-17
+date: 2026-11-12
 files:
   slides: 
   pdf_slides: 

@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Deep Models IV: Depth vs Breadth and Bias Variance"
+title: "Deep Models III: Depth vs Breadth and Bias Variance"
 presented_by: Alexander Strang
-date: 2026-11-12
+date: 2026-11-10
 files:
   slides: 
   pdf_slides: 

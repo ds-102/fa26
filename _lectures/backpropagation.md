@@ -1,8 +1,8 @@
 ---
 published: true
-title: "Deep Models II: Neural Network Classifiers and Backpropagation"
+title: "Deep Models I: Neural Network Classifiers and Backpropagation"
 presented_by: Alexander Strang
-date: 2026-11-05
+date: 2026-11-02
 files:
   slides: 
   pdf_slides: 
