@@ -11,7 +11,7 @@ files:
   notebook: 
   notes: 
   additional_files:
-    - name: Welch Labs: Double Descent and Overfitting
+    - name: Double Descent and Overfitting
       link: https://www.youtube.com/watch?v=z64a7USuGX0
     - name:
       link:
