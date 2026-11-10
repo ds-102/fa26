@@ -11,9 +11,11 @@ files:
   notebook: 
   notes: 
   additional_files:
+    - name: Decision Trees and Random Forest
+      link: https://data102.org/ds-102-book/content/chapters/03/nonparametric/
+    - name: Random Forests (Leo Brieman)
+      link: https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf
     - name: Double Descent and Overfitting
       link: https://www.youtube.com/watch?v=z64a7USuGX0
-    - name:
-      link:
 recording: 
 ---
