@@ -13,7 +13,7 @@ files:
   additional_files:
     - name: Double Descent and Overfitting
       link: https://www.youtube.com/watch?v=z64a7USuGX0
-    - name:
-      link:
+    - name: Belkin. Reconciling Modern Machine-learning Practice and the Classical Bias-Variance Trade-off. PNAS (2019)
+      link: https://www.pnas.org/doi/10.1073/pnas.1903070116
 recording: 
 ---
