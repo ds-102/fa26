@@ -4,7 +4,7 @@ title: "Online Decision Making III: Regret and Monte Carlo Tree Search"
 presented_by: Alexander Strang
 date: 2026-11-24
 files:
-  slides: https://docs.google.com/presentation/d/1zQ2n92sw3DTdtUYiCOQZdOXa9XgS1b5VKo3fb0oOUUw/edit?usp=sharing
+  slides: https://docs.google.com/presentation/d/1vn20pVSyMMABIaWdgXDcXtFr45BPmBsBwinHT-cQDAw/edit?usp=sharing
   pdf_slides: https://drive.google.com/file/d/1k8V-GAabVtADiO9i6DpLwO0lKgifGcTm/view?usp=sharing
   code: 
   code_html: 
